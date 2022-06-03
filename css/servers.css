@@ -1,0 +1,40 @@
+.servers {
+    display: inline-block;
+    float: left;
+    width: 721px;
+    height: 1700px;
+    padding: 10px;
+    background: #727771;
+    border-right: 1px dotted #485247;
+}
+
+tabel {
+    
+}
+
+th {
+    padding: 4px 41px 4px 40px;
+    text-align: center;
+    font-size: 12px;
+    color: #b5b5b5;
+    background: #485247;
+}
+
+td {
+    color: #fff;
+    text-align: center;
+    font-size: 10px;
+    background: #5c675b;
+}
+
+.name {
+    color: #d1af1f;
+}
+
+.online {
+    color: #7dff91;
+}
+
+.onlinemax {
+    color: #f4bfbf;
+}
