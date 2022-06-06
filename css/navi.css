@@ -30,6 +30,11 @@ a:hover {
     background: #485247;
     padding: 8px 10px 5px 10px;
     border-bottom: 2px solid #727771;
+    -webkit-transition: all.6s ease;
+	-moz-transition: all.6s ease;
+	-o-transition: all.6s ease;
+	-ms-transition: all.6s ease;
+	transition: all.6s ease;
 }
 
 .glavnaja {
