@@ -33,10 +33,11 @@ h1 {
 .zagru {
     font-size: 22px;
     margin: 0 0 0 1px;
+    padding: 0 2px 0 0;
     color: #fff;
     background: #ff0000;
     border: 2px solid #fff;
-    border-top-left-radius: 5px;
+    border-top-left-radius: 3px;
     border-bottom-right-radius: 5px;
 }
 
