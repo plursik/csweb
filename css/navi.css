@@ -22,20 +22,20 @@ a {
     font-size: 10px;
     color: #fff;
     text-decoration: none;
-    padding: 8px 10px 5px 10px;
+    padding: 9px 10px 5px 10px;
     text-shadow: 1px 0px #000;
 }
 
 a:hover {
     color: #d1af1f;
-    background: #485247;
-    padding: 8px 10px 5px 10px;
-    border-bottom: 2px solid #727771;
+    background: rgba(50, 60, 50, 0.4);
+    padding: 9px 10px 5px 10px;
+    border-bottom: 2px solid #d1af1f;
 }
 
 .glavnaja {
     color: #d1af1f;
-    background: #485247;
-    padding: 8px 10px 5px 10px;
+    background: rgba(50, 60, 50, 0.4);
+    padding: 9px 10px 5px 10px;
     border-bottom: 2px solid #727771;
 }
