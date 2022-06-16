@@ -1,0 +1,41 @@
+navi {
+    display: inline-block;
+    width: 940px;
+    height: 27px;
+    background: #5c675b;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    padding: 0;
+    list-style-type: none;
+    padding: 3px 10px 3px 10px;
+    border-right: 1px solid #727771;
+}
+
+a {
+    font-size: 10px;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 10px 5px 10px;
+    text-shadow: 1px 0px #000;
+}
+
+a:hover {
+    color: #d1af1f;
+    background: #485247;
+    padding: 8px 10px 5px 10px;
+    border-bottom: 2px solid #727771;
+}
+
+.glavnaja {
+    color: #d1af1f;
+    background: #485247;
+    padding: 8px 10px 5px 10px;
+    border-bottom: 2px solid #727771;
+}
